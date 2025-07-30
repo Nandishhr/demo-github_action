@@ -23,5 +23,12 @@ spec:
 
           image: nginx:1.14.2
 
+<<<<<<< HEAD
           ports:
             - containerPort: 80
+=======
+        image: nginx:1.14.2
+
+        ports:
+        - containerPort: 80
+>>>>>>> 6a35afa5903bf2f11bf8f9474616a13ed9815408
